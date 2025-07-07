@@ -24,11 +24,11 @@ const ContactUs = () => {
             </div>
             <div className="flex items-center gap-3 text-blue-400">
               <FaPhoneAlt />
-              <span className="text-white">+8801849317388</span>
+              <span className="text-white">+8801965194646</span>
             </div>
             <div className="flex items-center gap-3 text-green-500">
               <FaWhatsapp />
-              <span className="text-white">+8801849317388</span>
+              <span className="text-white">+8801965194646</span>
             </div>
           </div>
 

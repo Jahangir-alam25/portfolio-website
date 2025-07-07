@@ -60,6 +60,7 @@ const Hero = () => {
             <a
               href="/resume.pdf" // replace with actual path
               target="_blank"
+              download="Jahangir_Alam_Resume.pdf"
               rel="noopener noreferrer"
               className="btn bg-green-500 text-white border-none hover:bg-green-600"
             >
@@ -90,9 +91,9 @@ const Hero = () => {
         {/* Image Section */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src='https://i.ibb.co/YTPqtrqb/IMG-20250508-WA0005.jpg'
+            src='https://i.ibb.co/xtZDJdPJ/myPhoto.jpg'
             alt="Jahangir Alam"
-            className="w-[300px] md:w-[400px] rounded-xl"
+            className="w-[250px]  md:w-[400px] rounded-xl"
           />
         </div>
       </div>
